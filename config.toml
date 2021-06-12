@@ -2,3 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Bin Woods Ye"
 theme = "hyde"
+
+[ params ] 
+	description = ""
