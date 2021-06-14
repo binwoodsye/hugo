@@ -2,6 +2,7 @@
 title: "Hello"
 date: 2021-06-12T13:23:45+08:00
 draft: false
+Category: "log"
 ---
 
 Hello all. 
