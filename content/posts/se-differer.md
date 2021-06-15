@@ -1,6 +1,6 @@
 ---
 title: 自我分化
-date: 2021-6-15T16:33:45+08:00
+date: 2021-06-15T16:33:45+08:00
 draft: false
 categories: ["therapy-concepts"]
 ---
