@@ -1,0 +1,19 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Bin Woods Ye"
+theme = "hyde"
+
+[ params ] 
+	description = "beyond professionals"
+
+# RSS / Email (optional) subscription links (change if using something like Feedburner)
+subscribe_rss = "/index.xml"
+subscribe_email = ""
+
+# social links
+	github_user = ""
+	linkedin_user = "binye86755"
+
+[taxonomies]
+	category = "categories"
+
