@@ -1,7 +1,7 @@
 ---
 title: 自我分化
 date: 2021-6-14T15:04
-draft: true
+draft: false
 categories: ["therapy-concepts"]
 ---
 
