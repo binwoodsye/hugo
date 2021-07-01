@@ -12,7 +12,7 @@ draft: true
 
 <blockquote>
 每次我见到阿姨，都有温暖的感觉。
-	<blockquote>
+	</blockquote>
 
 在《心理评估》这本医学教材里，关于临床访谈（clinical interview）技能，也提到了**温暖**，具体是热情、友好、耐心、认真、不厌其烦、关切、积极、关爱。
 
