@@ -4,7 +4,7 @@ title = "Bin Woods Ye"
 theme = "hyde"
 
 [ params ] 
-	description = "beyond professionals"
+	description = "Apprentice d'Minuchinism"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss = "/index.xml"
